@@ -1,4 +1,4 @@
-"","X","Date","AveragePrice","Total.Volume","X4046","X4225","X4770","Total.Bags","Small.Bags","Large.Bags","XLarge.Bags","type","year","region"
+"","X","Date","AveragePrice","TotalVolume","X4046","X4225","X4770","TotalBags","SmallBags","LargeBags","XLargeBags","type","year","region"
 "9562",19,"2015-08-16",1.62,29458.3,1142.46,27912.51,0,403.33,403.33,0,0,"organic",2015,"Chicago"
 "6121",27,"2017-06-25",0.8,337211.8,4289.76,100910.25,1020.95,230990.84,28717.58,201500.92,772.34,"conventional",2017,"CincinnatiDayton"
 "17654",4,"2018-02-25",1.79,31567.3,34.89,2390.82,0,29141.59,25069.34,4072.25,0,"organic",2018,"Boston"
